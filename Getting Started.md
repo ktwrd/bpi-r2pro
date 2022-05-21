@@ -1,9 +1,9 @@
 # Banana PI R2 Pro Getting Started
 
 Steps
-- [Requirements](#Requirements)
-- [Using Serial](#Using Serial)
-- Download OS of Choice
+- [Requirements](#requirements)
+- [Using Serial](#using-serial)
+- [Download OS of Choice](#OS-of-Choice)
 - (Optional) Backing up the EMMC to a USB Drive.
 - Flashing to Device
 	- SDCard
