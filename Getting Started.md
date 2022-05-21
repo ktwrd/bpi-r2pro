@@ -63,4 +63,4 @@ When flashing to the Banana PI R2 Pro you have 3 official options to use. Ubuntu
 
 In this guide I will be flashing Ubuntu 20.04 to a 16GB SDCard.
 
-Downloads can be found on the [Resources Page](Resources.md#Banana PI R2 Pro).
+Downloads can be found on the [Resources Page](Resources.md#banana-pi-r2-pro).
