@@ -39,9 +39,10 @@ Connect your UART pins to your board, they should be next to the SATA plug. The 
 - Green -> `RXD`
 - White -> `TXD`
 
-![[/img/20220521_163325.jpg]]
+![](/img/20220521_163325.jpg)
 
-Open putty as root by doing `sudo putty` in your terminal, this window should open.![[/img/Screenshot from 2022-05-21 16-17-59.png]]
+Open putty as root by doing `sudo putty` in your terminal, this window should open.
+![](/img/Screenshot%20from%202022-05-21%2016-17-59.png)
 
 When putty has opened, select the `Serial` radio button and select the `Connection->Serial` option on the left side of the window.
 
@@ -49,11 +50,11 @@ Set the `Serial Line` option to the `tty` path of your serial device. For me, th
 
 Set the Speed to `1500000`, Data bits to `8`, Stop bits to `1`, Pairity to `none`, and Flow control to `none`.
 
-![[/img/Screenshot from 2022-05-21 16-21-09.png]]
+![](/img/Screenshot%20from%202022-05-21%2016-21-09.png)
 
 Once you've entered your settings, select the `Session` category and save your changes under any profile name, I suggest setting the profile name as `bpi-serial`.
 
-![[/img/Screenshot from 2022-05-21 16-21-25.png]]
+![](/img/Screenshot%20from%202022-05-21%2016-21-25.png)
 
 Now you can connect by pressing the `Open` button on the bottom right of the window.
 
