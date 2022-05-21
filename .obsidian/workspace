@@ -85,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Getting Started.md"
+              }
             }
           }
         ]
@@ -98,7 +100,7 @@
   "active": "801fc81d65772577",
   "lastOpenFiles": [
     "Getting Started.md",
-    "index.md",
-    "Resources.md"
+    "Resources.md",
+    "index.md"
   ]
 }
